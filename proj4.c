@@ -5,7 +5,7 @@
 Authors:
 	Daniel Najafi
 	Daniel St Andrews
-	Andrew Carv
+	Andrew Carvajal
 
 Purpose:
 	Use C language to write a simple web server using information about networking,
@@ -21,7 +21,7 @@ Methods:
 
 
 */
-
+//I can make changes c:
 
 #include <stdio.h>
 
